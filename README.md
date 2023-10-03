@@ -1,4 +1,6 @@
 # 📚 Reading:  Amazon Simple Storage Service (S3)
+[Hover your mouse here to see the tooltip](https://stackoverflow.com/a/71729464/11465149 "This is a tooltip :)")
+
 
 <div id="git-data-element" data-org="learn-co-curriculum" data-repo="dsc-aws-s3"></div>
 <header class="fis-header" style="visibility: hidden;"><a class="fis-git-link" href="https://github.com/learn-co-curriculum/dsc-aws-s3" target="_blank"><img id="repo-img" title="Open GitHub Repo" alt="GitHub Repo"></a><a class="fis-git-link" href="https://github.com/learn-co-curriculum/dsc-aws-s3/issues/new" target="_blank"><img id="issue-img" title="Create New Issue" alt="Create New Issue"></a></header>
