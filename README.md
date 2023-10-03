@@ -1,0 +1,1 @@
+# auto-test-reading-amazon-simple-storage-service-s3
